@@ -1,6 +1,20 @@
 easyRadio ADvanced is uber Stupendous (RADiuS)
 ===
 
-RADiuS Arduino Shield: Designed for use with microcontrollers that are compatible with the Arduino shield pinout.
+In 2003, I had a need for debugging a project wirelessly. I looked at a lot of solutions... and stumbled over a little company (Low Power Radio Solutions) in the UK that made exactly what I was looking for. They called it 'easyRadio.' Which... is an understatement.
 
-RADiuS USB Dongle: Designed for use with Raspberry Pi, but works with just about anything.
+[fast forward ten years]
+
+While going through a box of parts I found the original container with the radios inside. I had all but forgotten about them with all the XBee, Nordic, WiFi, etc. that I had been using since. I decided to look the company up - sure enough - they were still going strong.
+
+So... I've decided to do some projects with the easyRadio at the heart in hopes of introducing this great wireless solution to the US.
+
+
+RADiuS Arduino Shield
+---
+PCB designed for use with microcontrollers that are compatible with the Arduino shield pinout.
+
+
+RADiuS USB Dongle
+---
+PCB designed for use with the Raspberry Pi but works with just about anything.
