@@ -5,4 +5,6 @@ Sick of breadboarding Arduino? Me too... I found the SMDuino project which was a
 
 Not long after I got the itch for a drop-in surface mount Arduino, Sparkfun announced the Pro Micro. I immediately connected the two... and the Arudino PMC was born.
 
-v1.0 - Unproven. Send to OSH Park July 4, 2010.
+v1.0
+---
+Unproven. Sent to OSH Park for fabrication July 5, 2012.
