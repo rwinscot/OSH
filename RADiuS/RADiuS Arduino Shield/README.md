@@ -13,3 +13,7 @@ Released July 1, 2012. No known issues.
 v1.0
 ---
 Released May 15, 2012. No known issues.
+
+
+
+RADiuS by Rick Winscot is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Based on a work at www.quilix.com. Permissions beyond the scope of this license may be available at the aforementioned website.

@@ -1,6 +1,25 @@
-OSH Open Source Hardware
+Open Source Hardware Projects (OSH)
 ===
+Please see the README.md in each project folder for licensing details.
 
-Arduino PMC: Arduino Pro-micro Castellon (SMD footprint).
+http://www.oshwa.org/
 
-RADiuS: easyRadio Implementations (Low Power Radio Solutions).
+
+"I walked into the doctors office the other day... and after weighing me, the nurse asked me how tall I was. I said, 'five foot... AWESOME!'"
+
+Rick Winscot
+
+
+
+Arduino PMC
+---
+An Arduino with a surface-mount footprint made possible by castellon PCB/edge pads. Similar in concept to the SMDuino project... but I use the ATMega 32U4.
+
+
+RADiuS
+---
+Several projects that leverage the easyRadio wireless module from Low Power Radio Solutions. Something for Arduino, something for Raspberry Pi, something for just about any OS!
+
+
+
+More projects coming soon!
