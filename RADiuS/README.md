@@ -18,3 +18,9 @@ PCB designed for use with microcontrollers that are compatible with the Arduino 
 RADiuS USB Dongle
 ---
 PCB designed for use with the Raspberry Pi but works with just about anything.
+
+
+
+
+
+RADiuS by Rick Winscot is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Based on a work at www.quilix.com. Permissions beyond the scope of this license may be available at the aforementioned website.
