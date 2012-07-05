@@ -1,6 +1,6 @@
 OSH Open Source Hardware
 ===
 
-Arduino PMC		Pro-micro Castellon (SMD footprint)
+Arduino PMC: Arduino Pro-micro Castellon (SMD footprint).
 
-RADiuS			LPRS easyRadio Implementations
+RADiuS: easyRadio Implementations (Low Power Radio Solutions).
