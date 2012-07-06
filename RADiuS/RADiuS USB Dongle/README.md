@@ -18,6 +18,8 @@ Unproven. Sent to OSH Park for fabrication July 5, 2012.
  * Skinnified the board (width - 4mm)
  * Increased width of power traces 
  * Added RADiuS info and OSH logo
+ * Moved 9 pin SIL connector to the other side of the board
+ * Added bStop on soldermask under antenna for adhesive
 
 v1.0
 ---

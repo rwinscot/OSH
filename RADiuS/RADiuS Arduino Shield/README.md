@@ -9,6 +9,8 @@ Released July 1, 2012. No known issues.
 
  * Increased size of ground pour 
  * Added jumper detail to silkscreen
+ * Added OSH logo
+ * R5 / R6 value changed to 220 ohm
 
 v1.0
 ---
