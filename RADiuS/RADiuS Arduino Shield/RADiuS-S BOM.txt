@@ -1,178 +1,18 @@
+--------------------------------------------------------------------------------
 
+RADiuS Shield v1.1 Bill of Materials
 
-Standard LED - SMD Blue Water Clear 470nm 40mcd
-http://www.mouser.com/ProductDetail/Everlight/EL-15-21-BHC-AN1P2-2T/?qs=sGAEpiMZZMtEjy7lsqBi5aclvd%252b8QBlB1GUFCQLwXjY%3d
+Updated: July 6, 2012
 
-Mouser Part #:	 		638-152BHC-AN1P22T
-Manufacturer Part #:	EL-15-21/BHC-AN1P2/2T
-Manufacturer:			Everlight
-Cost:					$13 / 100 - $33 / 250
+--------------------------------------------------------------------------------
 
 
-Standard LED - SMD 1206 SMD LED GRN CL
-http://www.mouser.com/ProductDetail/Everlight/QTLP650C4TR/?qs=sGAEpiMZZMtEjy7lsqBi5Tbhbm3pLL8ujEdg%2f%2fuC0gU%3d
+RADiuS Shield
+http://www.quilix.com/radius
 
-Mouser Part #:	 		638-QTLP650C4
-Manufacturer Part #:	QTLP650C4TR
-Manufacturer:			Everlight
-Cost:					$12 / 100 - $28 / 250
-
-
-Standard LED - SMD 1206 SMD LED RED CL
-http://www.mouser.com/ProductDetail/Everlight/QTLP650C2TR/?qs=sGAEpiMZZMtEjy7lsqBi5Tbhbm3pLL8uQW06bn0bVTU%3d
-
-Mouser Part #:	 		638-QTLP650C2
-Manufacturer Part #:	QTLP650C2TR
-Manufacturer:			Everlight
-Cost:					$16 / 100 - $40 / 250
-
-
-Standard LED - SMD Yellow Water Clear 589nm 39mcd
-http://www.mouser.com/Search/ProductDetail.aspx?R=EL-15-21UYC%2fS530-A2%2fTR8virtualkey63810000virtualkey638-152UYCS530-A2
-
-Mouser Part #:	 		638-152UYCS530-A2
-Manufacturer Part #:	EL-15-21UYC/S530-A2/TR8
-Manufacturer:			Everlight
-Cost:					$12 / 100 - $28 / 250
-
-
-Thin Film Resistors - SMD 1206 1.0Kohm 0.1% 25ppm
-http://www.mouser.com/ProductDetail/Panasonic-Electronic-Components/ERA-8AEB102V/?qs=sGAEpiMZZMuAS3IvgggYtu5%252bc6DYjFPR
-
-Mouser Part #:	 		667-ERA-8AEB102V
-Manufacturer Part #:	ERA-8AEB102V
-Manufacturer:			Panasonic Electronic Components
-Cost:					$38 / 100 - $94 / 250 - $156 / 500
-
-
-Thin Film Resistors - SMD 1206 330ohm 0.1% 25ppm
-http://www.mouser.com/ProductDetail/Panasonic-Electronic-Components/ERA-8AEB331V/?qs=sGAEpiMZZMu61qfTUdNhGyQcNM61Ws3b8kuABl0yjUo%3d
-
-Mouser Part #:	 		667-ERA-8AEB331V
-Manufacturer Part #:	ERA-8AEB331V
-Manufacturer:			Panasonic Electronic Components
-
-
-CONN FEMALE 7POS .100" R/A GOLD
-http://search.digikey.com/us/en/products/PPPC071LGBN-RC/S5482-ND/775940
-
-DigiKey Part #:	 		S5482-ND
-Manufacturer Part #:	PPPC071LGBN-RC
-Manufacturer:			Sullins Connector Solutions
-Cost:					$52 / 100 - $112 / 250
-
-
-CONN FEMALE 2POS .100" R/A GOLD
-http://search.digikey.com/us/en/products/PPTC021LGBN-RC/S5438-ND/775896
-
-DigiKey Part #:	 		S5477-ND
-Manufacturer Part #:	PPPC021LGBN-RC
-Manufacturer:			Sullins Connector Solutions
-Cost:					$33 / 100 - $68 / 250
-
-
-CONN HEADER .100 SINGL R/A 36POS
-http://search.digikey.com/us/en/products/PBC36SBAN/S1111E-36-ND/860340
-
-DigiKey Part #:	 		S1111E-36-ND
-Manufacturer Part #:	PBC36SBAN
-Manufacturer:			Sullins Connector Solutions
-Cost:					$22 / 10 - $177 / 100 ( qty 10 = 90 parts / qty 100 = 900 parts )
-
-
-CONN JACK UMC VERTICAL SMD
-http://search.digikey.com/us/en/products/128-0711-201/J983CT-ND/1305687
-
-DigiKey Part #:	 		J983CT-ND
-Manufacturer Part #:	128-0711-201
-Manufacturer:			Emerson Network Power Connectivity Solutions
-Cost:					$68 / 100 - $144 / 250
-
-
-RF Connectors SMT VERTICAL JACK 50ohm 18GHz GOLD
-http://www.mouser.com/Search/ProductDetail.aspx?qs=iKljIZI%252bxs48GXd9jxbwZA%3d%3d
-
-Mouser Part #:	 		530-142-0711-201
-Manufacturer Part #:	142-0711-201
-Manufacturer:			Emerson / Johnson
-Cost:					$238 / 100 - $595 / 250
-
-
-Interconnect Socket 2mm Grid; Right Angle Socket Single Row .079" Grid (2mm) Pitch Through Hole
-http://www.mill-max.com/sockets/so_productinfo.cfm?searchBasicPartNumber=831&searchClipGrid=20&searchPinWindowPattern=001&searchInsulatorPinClipType=000&start=1&search_description2=-&search_rows=&options=true&rows=Single%20Row&imagefile=80.1C.gif&thumbnail=80.1C.gif
-2 pins - 831-41-002-20-001000
-7 pins - 831-41-007-20-001000
-
-
-
-
-
-Qty 100 = $311 ( $3.11 per board )
-Qty 250 = $625 ( $2.50 per board )
-
-
-
-
-
-
-SPRING ANTENNA ( cheapest )
-http://www.alibaba.com/product-gs/526105378/433MHz_straight_Spring_GSM_Antenna.html
-http://www.alibaba.com/product-gs/513169504/433MHz_Spring_antenna.html
-
-
-ANTENNA 433MHZ PLANAR (SMT)
-http://search.digikey.com/us/en/products/ANT-433-SP_/ANT-433-SP-ND/1679578
-
-DigiKey Part #:	 		ANT-433-SP-ND
-Manufacturer Part #:	ANT-433-SP_
-Manufacturer:			Linx Technologies Inc
-Cost:					$50 / 25 - $190 / 100 - $300 / 200 ( ~$2 ea - but requires PCB changes )
-
-
-ANTENNA 433MHZ 1/4 WAVE WHIP
-http://search.digikey.com/us/en/products/ANT-433-CW-RH/ANT-433-CW-RH-ND/340117
-
-DigiKey Part #:	 		ANT-433-CW-RH-ND
-Manufacturer Part #:	ANT-433-CW-RH
-Manufacturer:			Linx Technologies Inc
-Cost:					$150 / 25 - $547 / 100 ( ~$6 ea )
-
-
-RF CABLE ASSY
-http://search.digikey.com/us/en/products/JF1R6-CR3-4I/JF1R6-CR3-4I-ND/1090366
-
-DigiKey Part #:	 		JF1R6-CR3-4I-ND
-Manufacturer Part #:	JF1R6-CR3-4I
-Manufacturer:			Digi International/Maxstream
-Cost:					$4.50 / 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Manufacturer Part #:	RADiuS-S_v1.1
+Manufacturer:			www.quilix.com
+Cost:					$20.00 each
 
 
 Easy Radio Advanced Module
@@ -184,12 +24,49 @@ Manufacturer:			Low Power Radio Solutions
 Cost:					$44.35 each
 
 
-RADiuS Sheild via Fritzing
-http://www.quilix.com/radius
+CONN JACK RECEPT RA PCB .200" GO
+http://www.digikey.com/scripts/DkSearch/dksus.dll?wt.z_header=search_go&lang=en&keywords=j501-nd
 
-Manufacturer Part #:	RADiuS_v1
-Manufacturer:			www.quilix.com
-Cost:					$35.00 each
+DigiKey Part #:	 		J501-ND
+Manufacturer Part #:	142-0701-301
+Manufacturer:			Emerson Network Power Connectivity Solutions
+Cost:					$7.76 each
+
+
+ANTENNA PENTA RIGHT ANGLE SMA
+http://www.digikey.com/scripts/DkSearch/dksus.dll?wt.z_header=search_go&lang=en&keywords=553-1697-nd
+
+DigiKey Part #:	 		553-1697-ND
+Manufacturer Part #:	W1900
+Manufacturer:			Pulse Electronics Corporation
+Cost:					$4.40 each
+
+
+CONN SOCKET 50PIN .100 RT ANGLE
+http://www.digikey.com/scripts/DkSearch/dksus.dll?wt.z_header=search_go&lang=en&keywords=ed90253-nd
+
+DigiKey Part #:	 		ED90253-ND
+Manufacturer Part #:	801-43-050-20-001000
+Manufacturer:			Mill-Max Manufacturing Corp.
+Cost:					$9.53 each (one per two shields)
+
+
+CONN HEADER .100 SINGL R/A 
+http://www.digikey.com/product-detail/en/PBC36SBAN/S1111E-36-ND/860340
+
+DigiKey Part #:			S1111E-36-ND
+Manufacturer Part #:	PBC36SBAN
+Manufacturer:			Sullins Connector Solutions
+Cost:					$2.25 each ( 1 needed - break into needed pins )
+
+
+Arduino 'Stacking' Headers
+https://www.adafruit.com/products/85
+
+Adafruit Part #:		85
+Manufacturer Part #:	unknwon
+Manufacturer:			unknown
+Cost:					$1.50 per set ( 2 sets needed - 1 per shield )
 
 
 Standard LED - SMD Blue Water Clear 470nm 40mcd
@@ -228,22 +105,35 @@ Manufacturer:			Everlight
 Cost:					$0.21 each
 
 
-Thin Film Resistors - SMD 1206 1.0Kohm 0.1% 25ppm
-http://www.mouser.com/ProductDetail/Panasonic-Electronic-Components/ERA-8AEB102V/?qs=sGAEpiMZZMuAS3IvgggYtu5%252bc6DYjFPR
+RES 330 OHM 1/4W 1% 1206 SMD
+http://www.digikey.com/product-detail/en/ERJ-8ENF3300V/P330FCT-ND/1746581
 
-Mouser Part #:	 		667-ERA-8AEB102V
-Manufacturer Part #:	ERA-8AEB102V
+DigiKey Part #:	 		P330FCT-ND
+Manufacturer Part #:	ERJ-8ENF3300V
 Manufacturer:			Panasonic Electronic Components
-Cost:					$0.67 each ( you will need 2 )
+Cost:					$0.10 each ( you will need 2 )
 
 
-Thin Film Resistors - SMD 1206 330ohm 0.1% 25ppm
-http://www.mouser.com/ProductDetail/Panasonic-Electronic-Components/ERA-8AEB331V/?qs=sGAEpiMZZMu61qfTUdNhGyQcNM61Ws3b8kuABl0yjUo%3d
+RES 1.0K OHM 1/4W 5% 1206 SMD
+http://www.digikey.com/product-detail/en/ERJ-8GEYJ102V/P1.0KECT-ND/203248
 
-Mouser Part #:	 		667-ERA-8AEB331V
-Manufacturer Part #:	ERA-8AEB331V
+DigiKey Part #:	 		P1.0KECT-ND
+Manufacturer Part #:	ERJ-8GEYJ102V
 Manufacturer:			Panasonic Electronic Components
-Cost:					$0.67 each ( you will need 2 )
+Cost:					$0.10 each ( you will need 2 )
+
+
+
+
+
+
+
+
+
+SUBSTITUTE PARTS
+--------------------------------------------------------------------------------
+
+If the Mill-Max connectors are too rich for your blood... you can try these on for size. I found that the mechanical contact wasn't as good. If the modules aren't removed / inserted often, this might not be a concern.
 
 
 CONN FEMALE 7POS .100" R/A GOLD
@@ -264,22 +154,16 @@ Manufacturer:			Sullins Connector Solutions
 Cost:					$0.57 each
 
 
-CONN HEADER .100 SINGL R/A 36POS
-http://search.digikey.com/us/en/products/PBC36SBAN/S1111E-36-ND/860340
-
-DigiKey Part #:	 		S1111E-36-ND
-Manufacturer Part #:	PBC36SBAN
-Manufacturer:			Sullins Connector Solutions
-Cost:					$2.25 each
+...or this is an option...
 
 
-CONN JACK RECEPT RA PCB .200" GOLD
-http://search.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&site=us&KeyWords=j501-nd
+Interconnect Socket 2mm Grid; Right Angle Socket Single Row .079" Grid (2mm) Pitch Through Hole
+http://www.mill-max.com/sockets/so_productinfo.cfm?searchBasicPartNumber=831&searchClipGrid=20&searchPinWindowPattern=001&searchInsulatorPinClipType=000&start=1&search_description2=-&search_rows=&options=true&rows=Single%20Row&imagefile=80.1C.gif&thumbnail=80.1C.gif
+2 pins - 831-41-002-20-001000
+7 pins - 831-41-007-20-001000
 
-DigiKey Part #:	 		S1111E-36-ND
-Manufacturer Part #:	PBC36SBAN
-Manufacturer:			Emerson Network Power Connectivity Solutions
-Cost:					$7.76 each
+
+If you are using the 400 MHz radios... you'll need an antenna like this instead.
 
 
 ANT 433MHZ ISM BAND HELICAL
@@ -289,18 +173,4 @@ DigiKey Part #:	 		931-1069-ND
 Manufacturer Part #:	TI.10.0112
 Manufacturer:			Taoglas Limited
 Cost:					$8.10 each
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
