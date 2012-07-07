@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+
+C2B (coin cell breakout) v1.0 Bill of Materials
+
+Updated: July 7, 2012
+
+--------------------------------------------------------------------------------
+
+
+The C2B design will accomodate either a single or 'stacked' battery clip.
+
+
+
+HOLDER BATT-STACK 2 CR2032 SMD
+http://www.digikey.com/product-detail/en/BHX2-2032-SM/BHX2-2032-SM-ND/2194763
+
+Digi-Key Part Number	BHX2-2032-SM-ND
+Manufacturer			MPD (Memory Protection Devices)
+Manufacturer Part #		BHX2-2032-SM
+Cost					$0.49 ea
+
+
+HOLDER BATT FOR 2032 CELL SMD
+http://www.digikey.com/product-detail/en/BHX1-2032-SM/BHX1-2032-SM-ND/2194761
+
+Digi-Key Part Number	BHX1-2032-SM-ND
+Manufacturer			MPD (Memory Protection Devices)
+Manufacturer Part #		BHX2-2032-SM
+Cost					$0.44 ea
