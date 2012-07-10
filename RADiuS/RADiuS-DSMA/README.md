@@ -5,8 +5,8 @@ We've forked the original RADiuS-D design, and have moved to an SMA connector he
 
 This design was intended for Raspberry Pi... however, it is compatible with any OS that will support FTDI Virtual Com Port Drivers (Mac, Windows, Windows CE, Linux, Embedded Linux, etc.) and has a USB 2.0 port.
 
-http://www.raspberrypi.org/
-http://www.ftdichip.com/
+* http://www.raspberrypi.org/
+* http://www.ftdichip.com/
 
 
 v1.1
