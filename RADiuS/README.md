@@ -27,5 +27,10 @@ SSMA: RADiuS-S Arduino Compatible Shield with SMA Connector
 PCB designed for use with microcontrollers that are compatible with the Arduino shield pinout.
 
 
+application
+---
+Software applications that use RADiuS hardware: Arduino Sketches, Python procedures, C++/Java apps, etc.
+
+
 
 RADiuS by Rick Winscot is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Based on a work at www.quilix.com. Permissions beyond the scope of this license may be available at the aforementioned website.
