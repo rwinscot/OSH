@@ -9,17 +9,22 @@ While going through a box of parts I found the original container with the radio
 
 So... I've decided to do some projects with the easyRadio at the heart in hopes of introducing this great wireless solution to the US.
 
+Folder contents are as follows:
 
-RADiuS Arduino Shield
+
+DSMA: RADiuS-D USB Dongle with SMA Connector
+---
+PCB designed for use with Raspberry Pi but works with just about anything; includes an SMA antenna connector.
+
+
+DSMD: RADiuS-D USB Dongle with Helical SMD Antenna
+---
+PCB designed for use with the Raspberry Pi but works with just about anything; includes a landing pad for SMD antenna.
+
+
+SSMA: RADiuS-S Arduino Compatible Shield with SMA Connector
 ---
 PCB designed for use with microcontrollers that are compatible with the Arduino shield pinout.
-
-
-RADiuS USB Dongle
----
-PCB designed for use with the Raspberry Pi but works with just about anything.
-
-
 
 
 
