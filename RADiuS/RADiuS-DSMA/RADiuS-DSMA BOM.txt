@@ -1,0 +1,109 @@
+--------------------------------------------------------------------------------
+
+RADiuS USB Dongle with SMA Connector v1.1 Bill of Materials
+
+Updated: July 9, 2012
+
+--------------------------------------------------------------------------------
+
+
+RADiuS USB Dongle PCB for SMA Connector
+http://www.quilix.com/radius
+
+Manufacturer Part #:	RADiuS-DSMA_v1.1
+Manufacturer:		www.quilix.com
+Cost:			$10.00 each
+
+
+easyRadio Advanced Transceiver Module
+http://www.saelig.com/product/RW001.htm
+
+Saelig Part #:	 	638-152BHC-AN1P22T
+Manufacturer Part #:	ERA900TRS
+Manufacturer:		Low Power Radio Solutions
+Cost:			$44.35 each
+
+NOTE: You'll need to select a 'flavor' of radio module appropriate for your country: 400MHz / 900MHz is typically for use in Northern America and the 850MHz modules are used in Europe.
+
+
+ANTENNA PENTA RIGHT ANGLE SMA
+http://www.digikey.com/product-detail/en/W1900/553-1697-ND/2538446
+
+DigiKey Part #:	 	553-1697-ND
+Manufacturer Part #:	W1900
+Manufacturer:		Pulse Electronics Corporation
+Cost:			$4.40 each 
+
+NOTE: You'll need to match your antenna to your radio module frequency; see note above.
+
+
+CONN JACK END LAUNCH PCB .187" G
+http://www.digikey.com/product-detail/en/142-0701-801/J502-ND/35280
+
+DigiKey Part #:	 	J502-ND
+Manufacturer Part #:	142-0701-801
+Manufacturer:		Emerson Network Power Connectivity Solutions
+Cost:			$5.10 each 
+
+
+IC USB FS SERIAL UART 28-SSOP
+http://www.digikey.com/product-detail/en/FT232RL-REEL/768-1007-1-ND/1836402
+
+DigiKey Part #:	 	768-1007-1-ND
+Manufacturer Part #:	FT232RL-REEL
+Manufacturer:		FTDI, Future Technology Devices International Ltd
+Cost:			$4.50 each 
+
+
+FUSE FAST 63VDC 500MA 1206
+http://www.digikey.com/product-detail/en/SF-1206F050-2/SF-1206F050-2CT-ND/1948200
+
+DigiKey Part #:	 	SF-1206F050-2CT-ND
+Manufacturer Part #:	SF-1206F050-2
+Manufacturer:		Bourns Inc.
+Cost:			$0.65 each
+
+
+CAP CER 0.1UF 16V 10% X7R 0805
+http://www.digikey.com/product-detail/en/CGJ4J2X7R1C104K/445-8183-1-ND/2812210
+
+DigiKey Part #:	 	445-8183-1-ND
+Manufacturer Part #:	CGJ4J2X7R1C104K
+Manufacturer:		TDK Corporation
+Cost:			$0.19 each (2 per board)
+
+
+CAP TANT 10UF 16V 10% 1206
+http://www.digikey.com/product-detail/en/F931C106KAA/493-4147-1-ND/2529874
+
+DigiKey Part #:	 	493-4147-1-ND
+Manufacturer Part #:	F931C106KAA
+Manufacturer:		Nichicon
+Cost:			$0.48 each 
+
+
+Standard LED - SMD 1206 SMD LED GRN CL
+http://www.mouser.com/ProductDetail/Everlight/QTLP650C4TR/?qs=sGAEpiMZZMtEjy7lsqBi5Tbhbm3pLL8ujEdg%2f%2fuC0gU%3d
+
+Mouser Part #:	 	638-QTLP650C4
+Manufacturer Part #:	QTLP650C4TR
+Manufacturer:		Everlight
+Cost:			$0.19 each
+
+
+Standard LED - SMD Yellow Water Clear 589nm 39mcd
+http://www.mouser.com/Search/ProductDetail.aspx?R=EL-15-21UYC%2fS530-A2%2fTR8virtualkey63810000virtualkey638-152UYCS530-A2
+
+Mouser Part #:	 	638-152UYCS530-A2
+Manufacturer Part #:	EL-15-21UYC/S530-A2/TR8
+Manufacturer:		Everlight
+Cost:			$0.21 each
+
+
+RES 220 OHM 1/4W 1% 1206 SMD
+http://www.digikey.com/product-detail/en/ERJ-8ENF2200V/P220FCT-ND/1746561
+
+DigiKey Part #:	 	P220FCT-ND
+Manufacturer Part #:	ERJ-8ENF2200V
+Manufacturer:		Panasonic Electronic Components
+Cost:			$0.10 each (2 per board)
