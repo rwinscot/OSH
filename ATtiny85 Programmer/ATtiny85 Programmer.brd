@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.2">
+<eagle version="6.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -132,14 +132,21 @@
 <text x="16.2" y="10.3" size="1.27" layer="122" font="vector" rot="MR0">quilix.com</text>
 <text x="47.65" y="11.8" size="1.27" layer="122" font="vector" rot="MR0">ATtiny85</text>
 <text x="37.6" y="11.25" size="1.27" layer="122" font="vector" rot="MR180">Programmer</text>
-<text x="15" y="14.7" size="1.27" layer="121" font="vector">RST</text>
-<text x="15.1" y="12.2" size="1.27" layer="121" font="vector">p3</text>
-<text x="15.05" y="9.7" size="1.27" layer="121" font="vector">p4</text>
-<text x="15.05" y="7.05" size="1.27" layer="121" font="vector">GND</text>
-<text x="36.8" y="14.7" size="1.27" layer="121" font="vector">VCC</text>
-<text x="36.9" y="12.5" size="1.27" layer="121" font="vector">p2</text>
-<text x="36.9" y="9.9" size="1.27" layer="121" font="vector">p1*</text>
-<text x="36.9" y="7.35" size="1.27" layer="121" font="vector">p0*</text>
+<text x="14.55" y="14.6" size="1.27" layer="121" font="vector">RST</text>
+<text x="15.5" y="12.15" size="1.27" layer="121" font="vector">p3</text>
+<text x="15.5" y="9.7" size="1.27" layer="121" font="vector">p4</text>
+<text x="14.45" y="7" size="1.27" layer="121" font="vector">GND</text>
+<text x="37.4" y="14.65" size="1.27" layer="121" font="vector">VCC</text>
+<text x="37.4" y="12.5" size="1.27" layer="121" font="vector">p2</text>
+<text x="37.35" y="10" size="1.27" layer="121" font="vector">p1*</text>
+<text x="37.4" y="7.35" size="1.27" layer="121" font="vector">p0*</text>
+<text x="49" y="6.35" size="1.27" layer="121" font="vector">8</text>
+<text x="49.05" y="8.9" size="1.27" layer="121" font="vector">9</text>
+<text x="47.9" y="11.45" size="1.27" layer="121" font="vector">10</text>
+<text x="48.05" y="13.9" size="1.27" layer="121" font="vector">11</text>
+<text x="6.25" y="5.15" size="1.27" layer="121" font="vector" rot="R90">GND</text>
+<text x="5" y="9.95" size="1.27" layer="121" font="vector">5v</text>
+<text x="48" y="16.55" size="1.27" layer="121" font="vector">12</text>
 </plain>
 <libraries>
 <library name="adafruit">
@@ -221,7 +228,7 @@ grid 2.54 mm, diameter 6 mm</description>
 <class number="0" name="default" width="0" drill="0">
 </class>
 </classes>
-<designrules>
+<designrules name="default">
 <description language="de">&lt;b&gt;EAGLE Design Rules&lt;/b&gt;
 &lt;p&gt;
 Die Standard-Design-Rules sind so gewählt, dass sie für 
