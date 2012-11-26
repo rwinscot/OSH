@@ -14,8 +14,8 @@
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
@@ -117,6 +117,7 @@
 <wire x1="45.6" y1="36.9" x2="6.6" y2="36.9" width="0.3048" layer="20"/>
 <wire x1="6.6" y1="36.9" x2="6.6" y2="24" width="0.3048" layer="20"/>
 <text x="34.3" y="25.6" size="1.27" layer="121" font="vector" ratio="13">quilix.com</text>
+<wire x1="20.2" y1="27.3" x2="21.6" y2="27.3" width="0.184" layer="21"/>
 </plain>
 <libraries>
 <library name="SparkFun">
