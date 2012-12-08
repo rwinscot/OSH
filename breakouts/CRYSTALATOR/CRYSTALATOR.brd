@@ -125,10 +125,11 @@
 <text x="13.875" y="22.92" size="1.27" layer="121" font="vector" ratio="15" rot="R270">GND</text>
 <text x="16.385" y="23.22" size="1.27" layer="121" font="vector" ratio="15" rot="R270">OSC1</text>
 <text x="19.065" y="23.22" size="1.27" layer="121" font="vector" ratio="15" rot="R270">OSC2</text>
-<text x="21.78" y="18.78" size="1.27" layer="122" font="vector" rot="MR0">quilix.com</text>
+<text x="21.78" y="18.78" size="1.27" layer="122" font="vector" ratio="10" rot="MR0">quilix.com</text>
 <dimension x1="8" y1="5" x2="17" y2="5.05" x3="12.531571875" y3="-0.65815625" layer="47"/>
 <dimension x1="8" y1="26" x2="26" y2="26" x3="17" y3="31.75" layer="47"/>
 <dimension x1="8" y1="5" x2="8" y2="26" x3="1.5" y3="15.5" layer="47"/>
+<text x="23.08" y="11.68" size="1.27" layer="122" font="vector" ratio="10" rot="MR0">CRYSTALATOR</text>
 </plain>
 <libraries>
 <library name="SparkFun">
